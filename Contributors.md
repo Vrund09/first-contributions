@@ -1,5 +1,5 @@
 # Contributors
-- [Vrund Patel](https://github.com/Vrund09)
+- [Vrund Patel](https://github.com/Vrund09)| [LinkedIn](https://www.linkedin.com/in/vrund-patel09/)
 - [Ritesh Singh](https://github.com/ritesh355)
 - [Satrap18](https://github.com/Satrap18)
 - [Pushpesh](https://github.com/impushpesh)
